@@ -30,7 +30,7 @@ A simple Python script that converts Markdown files to IPython Notebook (.ipynb)
 
 #### Input .md file: 
 
-![Input .md file](https://github.com/Qalxry/markdown_to_ipynb/assets/70196852/f48a3da6-6904-42dc-aad3-17c4cb931aa8)
+![Input .md file](https://github.com/Qalxry/markdown_to_ipynb/assets/70196852/3fd5ea28-eca6-4128-86b2-d5c7a6b13f33)
 
 #### Output .ipynb file:
 
