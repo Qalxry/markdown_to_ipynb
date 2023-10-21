@@ -12,6 +12,7 @@ A simple Python script that converts Markdown files to IPython Notebook (.ipynb)
     -y, --yes                       Do not ask for confirmation (default: False)
     -v, --version                   Show version
     -h, --help                      Show help
+    -u, --usage                     Show usage
 
 ```
  
